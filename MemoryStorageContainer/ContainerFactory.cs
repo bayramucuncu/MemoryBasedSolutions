@@ -18,6 +18,5 @@ namespace MemoryStorageContainer
             
             return _container;
         }
-
     }
 }
